@@ -1,2 +1,2 @@
-# lol-icons-and-emblems
-Icon &amp; Emblems for League of Legends
+# Icons and Emblems for League of Legends
+From https://developer.riotgames.com/docs/lol
